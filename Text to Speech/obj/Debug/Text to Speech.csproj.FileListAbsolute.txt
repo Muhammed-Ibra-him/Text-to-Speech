@@ -1,0 +1,38 @@
+c:\users\moham\documents\visual studio 2013\Projects\Text to Speech\Text to Speech\bin\Debug\Text to Speech.exe.config
+c:\users\moham\documents\visual studio 2013\Projects\Text to Speech\Text to Speech\bin\Debug\Text to Speech.exe
+c:\users\moham\documents\visual studio 2013\Projects\Text to Speech\Text to Speech\bin\Debug\Text to Speech.pdb
+c:\users\moham\documents\visual studio 2013\Projects\Text to Speech\Text to Speech\obj\Debug\Text to Speech.csprojResolveAssemblyReference.cache
+c:\users\moham\documents\visual studio 2013\Projects\Text to Speech\Text to Speech\obj\Debug\Text_to_Speech.Form1.resources
+c:\users\moham\documents\visual studio 2013\Projects\Text to Speech\Text to Speech\obj\Debug\Text_to_Speech.Properties.Resources.resources
+c:\users\moham\documents\visual studio 2013\Projects\Text to Speech\Text to Speech\obj\Debug\Text to Speech.csproj.GenerateResource.Cache
+c:\users\moham\documents\visual studio 2013\Projects\Text to Speech\Text to Speech\obj\Debug\Text to Speech.exe
+c:\users\moham\documents\visual studio 2013\Projects\Text to Speech\Text to Speech\obj\Debug\Text to Speech.pdb
+D:\Mohamed Ibrahim\Text to Speech by Mohamed Ibrahim\Text to Speech\bin\Debug\Text to Speech.exe.config
+D:\Mohamed Ibrahim\Text to Speech by Mohamed Ibrahim\Text to Speech\obj\Debug\Text to Speech.exe
+D:\Mohamed Ibrahim\Text to Speech by Mohamed Ibrahim\Text to Speech\obj\Debug\Text to Speech.pdb
+D:\Mohamed Ibrahim\Text to Speech by Mohamed Ibrahim\Text to Speech\bin\Debug\Text to Speech.exe
+D:\Mohamed Ibrahim\Text to Speech by Mohamed Ibrahim\Text to Speech\bin\Debug\Text to Speech.pdb
+D:\Mohamed Ibrahim\Text to Speech by Mohamed Ibrahim\Text to Speech\obj\Debug\Text to Speech.csprojResolveAssemblyReference.cache
+D:\Mohamed Ibrahim\Text to Speech by Mohamed Ibrahim\Text to Speech\obj\Debug\Text_to_Speech.Form1.resources
+D:\Mohamed Ibrahim\Text to Speech by Mohamed Ibrahim\Text to Speech\obj\Debug\Text_to_Speech.Properties.Resources.resources
+D:\Mohamed Ibrahim\Text to Speech by Mohamed Ibrahim\Text to Speech\obj\Debug\Text to Speech.csproj.GenerateResource.Cache
+G:\Mohamed Ibrahim\Text to Speech\Text to Speech\bin\Debug\Text to Speech.exe.config
+G:\Mohamed Ibrahim\Text to Speech\Text to Speech\bin\Debug\Text to Speech.exe
+G:\Mohamed Ibrahim\Text to Speech\Text to Speech\bin\Debug\Text to Speech.pdb
+G:\Mohamed Ibrahim\Text to Speech\Text to Speech\obj\Debug\Text to Speech.csprojResolveAssemblyReference.cache
+G:\Mohamed Ibrahim\Text to Speech\Text to Speech\obj\Debug\Text_to_Speech.Form1.resources
+G:\Mohamed Ibrahim\Text to Speech\Text to Speech\obj\Debug\Text_to_Speech.Properties.Resources.resources
+G:\Mohamed Ibrahim\Text to Speech\Text to Speech\obj\Debug\Text to Speech.csproj.GenerateResource.Cache
+G:\Mohamed Ibrahim\Text to Speech\Text to Speech\obj\Debug\Text to Speech.exe
+G:\Mohamed Ibrahim\Text to Speech\Text to Speech\obj\Debug\Text to Speech.pdb
+E:\Mohamed Ibrahim\Text to Speech\Text to Speech\bin\Debug\Text to Speech.exe.config
+E:\Mohamed Ibrahim\Text to Speech\Text to Speech\bin\Debug\Text to Speech.exe
+E:\Mohamed Ibrahim\Text to Speech\Text to Speech\bin\Debug\Text to Speech.pdb
+E:\Mohamed Ibrahim\Text to Speech\Text to Speech\obj\Debug\Text_to_Speech.Form1.resources
+E:\Mohamed Ibrahim\Text to Speech\Text to Speech\obj\Debug\Text_to_Speech.Properties.Resources.resources
+E:\Mohamed Ibrahim\Text to Speech\Text to Speech\obj\Debug\Text to Speech.csproj.GenerateResource.Cache
+E:\Mohamed Ibrahim\Text to Speech\Text to Speech\obj\Debug\Text to Speech.exe
+E:\Mohamed Ibrahim\Text to Speech\Text to Speech\obj\Debug\Text to Speech.pdb
+E:\Mohamed Ibrahim\Text to Speech\Text to Speech\obj\Debug\Text to Speech.csproj.AssemblyReference.cache
+E:\Mohamed Ibrahim\Text to Speech\Text to Speech\obj\Debug\Text to Speech.csproj.SuggestedBindingRedirects.cache
+E:\Mohamed Ibrahim\Text to Speech\Text to Speech\obj\Debug\Text to Speech.csproj.CoreCompileInputs.cache
